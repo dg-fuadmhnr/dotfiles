@@ -1,0 +1,16 @@
+font_family		GeistMono NFM Bold
+font_size		16.0
+adjust_line_height	12
+scrollback_lines	-1
+detect_urls		yes
+tab_bar_edge 		bottom
+tab_bar_style 		separator
+tab_separator 		"  |  "
+background_opacity 0.90
+dynamic_background_opacity yes
+background_blur 1
+
+# BEGIN_KITTY_THEME
+# Modus Operandi Tinted
+include current-theme.conf
+# END_KITTY_THEME
